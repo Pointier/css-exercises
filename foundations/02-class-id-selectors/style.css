@@ -1,0 +1,19 @@
+.first {
+  background-color: #ff467e;
+  font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+
+#test {
+  color: blue;
+  font-size: 36px;
+}
+
+.second {
+  font-size: 24px;
+}
+
+#number {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #87ed58;
+}
